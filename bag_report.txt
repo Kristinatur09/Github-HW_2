@@ -1,0 +1,13 @@
+id: 1
+Summary:
+  The word Cashback doesn't translate to Russian in the burger menu
+Description:
+  The user can see the word Cashback instead Кэшбек by opening the burger menu
+Steps to reproduce:
+  Open the burger menu in the Homepage
+Actual result: 
+  The word "Cashback" is displayed in the menu
+Expected result: 
+  The word Cashback sould be in Russian - Кэшбек
+Environment:
+  Iphone XS
