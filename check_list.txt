@@ -1,0 +1,9 @@
+ 1. Check  opening  the page for creation the internet-store
+ 2. Check the function "Прикрепить магазин"
+ 3. Сheck the option "Выбрать шаблон"
+ 4. Check field for searching "Поиск по шаблону"
+ 5. Check the option "Посмотреть" on the proposed templates
+ 6. Check the possibilities for the option "Перейти в редактор"
+ 7. Check the option "Сменить шаблон"
+ 8. Check closing of the creation page
+
